@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil, pursuing a full stack status.
 - :telescope: I’m working as a Tech consultant and contributing to frontend for building web systems.
 
 - :seedling: Exploring React and Node.js.
