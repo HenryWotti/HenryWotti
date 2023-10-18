@@ -14,7 +14,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring ReactJS and TypeScript.
 
-- :zap: Currently - UFES university - Computer Science || CT Junior, junior enterprise - Tech consultant.
+- :zap: Currently - UFES university - Computer Science || Distribuidora Pomar enterprise - Tech consultant.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-HenryWotti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrycky-wottikosky/)
 
